@@ -24,13 +24,6 @@
     <!-- Empty space to create the first gap -->
     <span style="display:inline-block; width: 200px;"></span>
     <!-- Empty space to create the second gap -->
-    <div style="display: flex; justify-content: center;">
-        <div class="tenor-gif-embed" data-postid="1489386840712152603" data-share-method="host" data-aspect-ratio="0.939759" data-width="50%">
-            <a href="https://tenor.com/view/yippee-happy-yippee-creature-yippee-meme-yippee-gif-gif-1489386840712152603">Yippee Happy GIF</a> from
-            <a href="https://tenor.com/search/yippee-gifs">Yippee GIFs</a>
-        </div>
-        <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-    </div>
     <span style="display:inline-block; width: 200px;"></span>
     <img alt="Image2" title="Image2" src="https://c.stocksy.com/a/JIeA00/z9/2538175.jpg" width="200"> <!-- Ganti src dengan URL gambar yang diinginkan -->
 </p>
