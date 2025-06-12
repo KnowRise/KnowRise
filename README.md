@@ -1,7 +1,6 @@
 
-<h1 align="center"> KnowRise </h1><br>
-<p align="center">Never Surrender! And be yourself</p>
-
+<h1 align="center"> KnowRise</h1> <br>
+<p align="center">Never Surrender! And be yourself</p> <br>
 ![Pisang Coy](https://wallpapers.com/images/hd/aesthetic-single-banana-ca70e4qdhc1z45gy.jpg)
 
 <div align="center">
