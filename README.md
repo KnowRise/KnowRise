@@ -4,7 +4,5 @@
 
 ![Pisang Coy](https://wallpapers.com/images/hd/aesthetic-single-banana-ca70e4qdhc1z45gy.jpg)
 
-<div align="center">
-  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KnowRise?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
-</div>
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KnowRise?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
