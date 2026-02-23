@@ -5,7 +5,6 @@
 ![Pisang Coy](https://wallpapers.com/images/hd/aesthetic-single-banana-ca70e4qdhc1z45gy.jpg)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KnowRise&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="KnowRise's Top Languages"><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=KnowRise&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="KnowRise's Stats">
+  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KnowRise?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 </div>
 
