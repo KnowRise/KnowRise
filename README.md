@@ -6,3 +6,4 @@
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/KnowRise?cardType=level&theme=tokyonight&fontFamily=&preferLogin=true)](https://git.io/awesome-stats-card)
 
+![GitHubCard](https://githubcard.com/KnowRise.svg)
