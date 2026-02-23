@@ -1,5 +1,5 @@
 <h1 align="center">KnowRise</h1>
-<p align="center">Stay Positive! And be yourself</p>
+<p align="center">"Stay Positive! And be yourself" ~Me</p>
 
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
