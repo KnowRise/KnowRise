@@ -30,6 +30,7 @@
 
 <p align="center">
   <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"></a>
+  <a href="https://www.rust-lang.org/"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust"></a>
 </p>
 
 ![Pisang Coy](https://wallpapers.com/images/hd/aesthetic-single-banana-ca70e4qdhc1z45gy.jpg)
